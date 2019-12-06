@@ -1,4 +1,5 @@
-# Android PubSub Sample
+# Android PubSub Sample 
+# (The ReadME file of the Android Application used to design our Parking SpotIFY Application)
 
 This sample demonstrates the use of the AWS IoT APIs to securely publish-to and subscribe-from MQTT topics.  It uses Cognito federated identities in conjunction with AWS IoT to create a client certificate and private key and store it in a local Java keystore.  This identity is then used to authenticate to AWS IoT.  Once a connection to the AWS IoT platform has been established, the sample app presents a simple UI to publish and subscribe over MQTT. The app will use the certificate and private key saved in the local java keystore for future connections.
 
